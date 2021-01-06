@@ -1,2 +1,2 @@
 # Graph-Algorithms
-Basic Graph Algorithms in python
+Some basic graph algorithms
